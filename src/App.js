@@ -1,10 +1,10 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
-import Api from './components/Api';
+import React from "react";
+import logo from "./logo.svg";
+import "./App.css";
+import Api from "./components/Api";
 function App() {
   return (
-    <div>
+    <div className="App">
       <Api></Api>
     </div>
   );
