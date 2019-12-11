@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Gowthamanweb/TimeZone-react/static/css/main.5ddf98fb.chunk.css",
-    "main.js": "/Gowthamanweb/TimeZone-react/static/js/main.488aec0b.chunk.js",
-    "main.js.map": "/Gowthamanweb/TimeZone-react/static/js/main.488aec0b.chunk.js.map",
+    "main.css": "/Gowthamanweb/TimeZone-react/static/css/main.80b320af.chunk.css",
+    "main.js": "/Gowthamanweb/TimeZone-react/static/js/main.6e97ee98.chunk.js",
+    "main.js.map": "/Gowthamanweb/TimeZone-react/static/js/main.6e97ee98.chunk.js.map",
     "runtime-main.js": "/Gowthamanweb/TimeZone-react/static/js/runtime-main.ec87f6c3.js",
     "runtime-main.js.map": "/Gowthamanweb/TimeZone-react/static/js/runtime-main.ec87f6c3.js.map",
     "static/css/2.3ee065ab.chunk.css": "/Gowthamanweb/TimeZone-react/static/css/2.3ee065ab.chunk.css",
     "static/js/2.bdbf090c.chunk.js": "/Gowthamanweb/TimeZone-react/static/js/2.bdbf090c.chunk.js",
     "static/js/2.bdbf090c.chunk.js.map": "/Gowthamanweb/TimeZone-react/static/js/2.bdbf090c.chunk.js.map",
     "index.html": "/Gowthamanweb/TimeZone-react/index.html",
-    "precache-manifest.f9717de768365c3a397644460590df2e.js": "/Gowthamanweb/TimeZone-react/precache-manifest.f9717de768365c3a397644460590df2e.js",
+    "precache-manifest.51754625b0aaed9be47d97cb72338afc.js": "/Gowthamanweb/TimeZone-react/precache-manifest.51754625b0aaed9be47d97cb72338afc.js",
     "service-worker.js": "/Gowthamanweb/TimeZone-react/service-worker.js",
     "static/css/2.3ee065ab.chunk.css.map": "/Gowthamanweb/TimeZone-react/static/css/2.3ee065ab.chunk.css.map",
-    "static/css/main.5ddf98fb.chunk.css.map": "/Gowthamanweb/TimeZone-react/static/css/main.5ddf98fb.chunk.css.map",
+    "static/css/main.80b320af.chunk.css.map": "/Gowthamanweb/TimeZone-react/static/css/main.80b320af.chunk.css.map",
     "static/js/2.bdbf090c.chunk.js.LICENSE": "/Gowthamanweb/TimeZone-react/static/js/2.bdbf090c.chunk.js.LICENSE",
     "static/media/mdb.css": "/Gowthamanweb/TimeZone-react/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/Gowthamanweb/TimeZone-react/static/media/fa-solid-900.f6121be5.woff2",
@@ -22,7 +22,7 @@
     "static/js/runtime-main.ec87f6c3.js",
     "static/css/2.3ee065ab.chunk.css",
     "static/js/2.bdbf090c.chunk.js",
-    "static/css/main.5ddf98fb.chunk.css",
-    "static/js/main.488aec0b.chunk.js"
+    "static/css/main.80b320af.chunk.css",
+    "static/js/main.6e97ee98.chunk.js"
   ]
 }
