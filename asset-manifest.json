@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Gowthamanweb/TimeZone-react/static/css/main.8ab6f918.chunk.css",
+    "main.js": "/Gowthamanweb/TimeZone-react/static/js/main.3ec6798f.chunk.js",
+    "main.js.map": "/Gowthamanweb/TimeZone-react/static/js/main.3ec6798f.chunk.js.map",
+    "runtime-main.js": "/Gowthamanweb/TimeZone-react/static/js/runtime-main.ec87f6c3.js",
+    "runtime-main.js.map": "/Gowthamanweb/TimeZone-react/static/js/runtime-main.ec87f6c3.js.map",
+    "static/js/2.024afa64.chunk.js": "/Gowthamanweb/TimeZone-react/static/js/2.024afa64.chunk.js",
+    "static/js/2.024afa64.chunk.js.map": "/Gowthamanweb/TimeZone-react/static/js/2.024afa64.chunk.js.map",
+    "index.html": "/Gowthamanweb/TimeZone-react/index.html",
+    "precache-manifest.d7aa42e2f8e9619303753e264a93434a.js": "/Gowthamanweb/TimeZone-react/precache-manifest.d7aa42e2f8e9619303753e264a93434a.js",
+    "service-worker.js": "/Gowthamanweb/TimeZone-react/service-worker.js",
+    "static/css/main.8ab6f918.chunk.css.map": "/Gowthamanweb/TimeZone-react/static/css/main.8ab6f918.chunk.css.map",
+    "static/js/2.024afa64.chunk.js.LICENSE": "/Gowthamanweb/TimeZone-react/static/js/2.024afa64.chunk.js.LICENSE",
+    "static/media/logo.svg": "/Gowthamanweb/TimeZone-react/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec87f6c3.js",
+    "static/js/2.024afa64.chunk.js",
+    "static/css/main.8ab6f918.chunk.css",
+    "static/js/main.3ec6798f.chunk.js"
+  ]
+}
