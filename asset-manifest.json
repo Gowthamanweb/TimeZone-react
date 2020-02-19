@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/Gowthamanweb/TimeZone-react/static/css/main.80b320af.chunk.css",
-    "main.js": "/Gowthamanweb/TimeZone-react/static/js/main.2a62a5f9.chunk.js",
-    "main.js.map": "/Gowthamanweb/TimeZone-react/static/js/main.2a62a5f9.chunk.js.map",
-    "runtime-main.js": "/Gowthamanweb/TimeZone-react/static/js/runtime-main.ec87f6c3.js",
-    "runtime-main.js.map": "/Gowthamanweb/TimeZone-react/static/js/runtime-main.ec87f6c3.js.map",
-    "static/css/2.152611f8.chunk.css": "/Gowthamanweb/TimeZone-react/static/css/2.152611f8.chunk.css",
-    "static/js/2.bdbf090c.chunk.js": "/Gowthamanweb/TimeZone-react/static/js/2.bdbf090c.chunk.js",
-    "static/js/2.bdbf090c.chunk.js.map": "/Gowthamanweb/TimeZone-react/static/js/2.bdbf090c.chunk.js.map",
-    "index.html": "/Gowthamanweb/TimeZone-react/index.html",
-    "precache-manifest.8e34a255221ea5628115c1f01f604449.js": "/Gowthamanweb/TimeZone-react/precache-manifest.8e34a255221ea5628115c1f01f604449.js",
-    "service-worker.js": "/Gowthamanweb/TimeZone-react/service-worker.js",
-    "static/css/2.152611f8.chunk.css.map": "/Gowthamanweb/TimeZone-react/static/css/2.152611f8.chunk.css.map",
-    "static/css/main.80b320af.chunk.css.map": "/Gowthamanweb/TimeZone-react/static/css/main.80b320af.chunk.css.map",
-    "static/js/2.bdbf090c.chunk.js.LICENSE": "/Gowthamanweb/TimeZone-react/static/js/2.bdbf090c.chunk.js.LICENSE",
-    "static/media/mdb.css": "/Gowthamanweb/TimeZone-react/static/media/arrow_right.8ef6a08c.svg",
-    "static/media/all.min.css": "/Gowthamanweb/TimeZone-react/static/media/fa-solid-900.f6121be5.woff2",
-    "static/media/logo.svg": "/Gowthamanweb/TimeZone-react/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/gowthamandev/TimeZone-react/static/css/main.80b320af.chunk.css",
+    "main.js": "/gowthamandev/TimeZone-react/static/js/main.6621ebcf.chunk.js",
+    "main.js.map": "/gowthamandev/TimeZone-react/static/js/main.6621ebcf.chunk.js.map",
+    "runtime-main.js": "/gowthamandev/TimeZone-react/static/js/runtime-main.4bf0fb53.js",
+    "runtime-main.js.map": "/gowthamandev/TimeZone-react/static/js/runtime-main.4bf0fb53.js.map",
+    "static/css/2.b0696df7.chunk.css": "/gowthamandev/TimeZone-react/static/css/2.b0696df7.chunk.css",
+    "static/js/2.bdbf090c.chunk.js": "/gowthamandev/TimeZone-react/static/js/2.bdbf090c.chunk.js",
+    "static/js/2.bdbf090c.chunk.js.map": "/gowthamandev/TimeZone-react/static/js/2.bdbf090c.chunk.js.map",
+    "index.html": "/gowthamandev/TimeZone-react/index.html",
+    "precache-manifest.feca0aa60585bd23a7b66aa429a1095f.js": "/gowthamandev/TimeZone-react/precache-manifest.feca0aa60585bd23a7b66aa429a1095f.js",
+    "service-worker.js": "/gowthamandev/TimeZone-react/service-worker.js",
+    "static/css/2.b0696df7.chunk.css.map": "/gowthamandev/TimeZone-react/static/css/2.b0696df7.chunk.css.map",
+    "static/css/main.80b320af.chunk.css.map": "/gowthamandev/TimeZone-react/static/css/main.80b320af.chunk.css.map",
+    "static/js/2.bdbf090c.chunk.js.LICENSE": "/gowthamandev/TimeZone-react/static/js/2.bdbf090c.chunk.js.LICENSE",
+    "static/media/mdb.css": "/gowthamandev/TimeZone-react/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/all.min.css": "/gowthamandev/TimeZone-react/static/media/fa-solid-900.f6121be5.woff2",
+    "static/media/logo.svg": "/gowthamandev/TimeZone-react/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.ec87f6c3.js",
-    "static/css/2.152611f8.chunk.css",
+    "static/js/runtime-main.4bf0fb53.js",
+    "static/css/2.b0696df7.chunk.css",
     "static/js/2.bdbf090c.chunk.js",
     "static/css/main.80b320af.chunk.css",
-    "static/js/main.2a62a5f9.chunk.js"
+    "static/js/main.6621ebcf.chunk.js"
   ]
 }
