@@ -55,7 +55,7 @@ class Select extends Component {
     return (
       <div>
         <MDBSelect label="Example label" onChange={this.selectHandler}>
-          <MDBSelectInput selected="Choose your option" />
+          <MDBSelectInput selected="Choose option" />
           <MDBSelectOptions search>
             <MDBSelectOption disabled>Choose your option</MDBSelectOption>
             {zones.length

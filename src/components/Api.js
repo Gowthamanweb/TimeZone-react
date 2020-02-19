@@ -100,7 +100,7 @@ class Api extends Component {
             className="form-control col-sm-4"
             onChange={this.selectHandler}
           >
-            <option value="">Choose your location</option>
+            <option value="">Choose Location</option>
             {location.length
               ? location.map(loc => (
                   <option key={loc} value={loc}>
