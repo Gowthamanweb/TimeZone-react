@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gowthamandev/TimeZone-react/precache-manifest.feca0aa60585bd23a7b66aa429a1095f.js"
+  "/gowthamandev/TimeZone-react/precache-manifest.dff9375b8a21024ca1eb28cea60fa54a.js"
 );
 
 self.addEventListener('message', (event) => {
