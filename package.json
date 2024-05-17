@@ -9,7 +9,7 @@
     "@testing-library/user-event": "^7.1.2",
     "axios": ">=0.21.1",
     "bootstrap": "^4.4.1",
-    "gh-pages": "^2.1.1",
+    "gh-pages": "^5.0.0",
     "jquery": "^3.4.1",
     "mdbreact": "^4.23.1",
     "moment": "^2.24.0",
